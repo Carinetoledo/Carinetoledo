@@ -18,9 +18,9 @@ My passion is front-end development. I love watching ideas come to life through 
 
 <h3 align="left">GitHub Stats</h3>
 
-<div align="left">
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=carinetoledo&theme=transparent&bg_color=000&border_color=FFC100&hide_title=true&show_icons=true&icon_color=FFC100&title_color=993399&text_color=FFF&include_all_commits=true&count_private=true&hide_rank=true"/>
-<img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carinetoledo&layout=compact&bg_color=000&border_color=FFC100&hide_title=false&title_color=FFC100&text_color=FFF"/>
+<div align="left" display:"inline-block">
+<img height="140em" width="265em" src="https://github-readme-stats.vercel.app/api?username=carinetoledo&theme=transparent&bg_color=000&border_color=FFC100&hide_title=true&show_icons=true&icon_color=FFC100&title_color=993399&text_color=FFF&include_all_commits=true&count_private=true&hide_rank=true"/>
+<img height="140em" width="240em"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carinetoledo&layout=compact&bg_color=000&border_color=FFC100&hide_title=false&title_color=FFC100&text_color=FFF"/>
 <br>
 </div>
 <br>

@@ -1,5 +1,5 @@
 <div>
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400 em" src=".github/images/desktop.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src=".github/images/desktop.png">
 </div>
 <h1>
     <a href="carinetoledo.github.io/">
@@ -18,11 +18,13 @@ My passion is front-end development. I love watching ideas come to life through 
 
 <h3 align="left">GitHub Stats</h3>
 
-<div align="left" display:"inline-block">
-<img height="140em" width="265em" src="https://github-readme-stats.vercel.app/api?username=carinetoledo&theme=transparent&bg_color=000&border_color=FFC100&hide_title=true&show_icons=true&icon_color=FFC100&title_color=993399&text_color=FFF&include_all_commits=true&count_private=true&hide_rank=true"/>
-<img height="140em" width="240em"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carinetoledo&layout=compact&bg_color=000&border_color=FFC100&hide_title=false&title_color=FFC100&text_color=FFF"/>
+<div align="left">
+<img height="140em"  src="https://github-readme-stats.vercel.app/api?username=carinetoledo&theme=transparent&bg_color=000&border_color=FFC100&hide_title=true&show_icons=true&icon_color=FFC100&title_color=993399&text_color=FFF&include_all_commits=true&count_private=true&hide_rank=true"/>
 <br>
+<h3 align="left">Most Used Languages</h3>    
 </div>
+<div align="left">
+<img height="140em" width="300em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carinetoledo&layout=compact&bg_color=000&border_color=FFC100&hide_title=true&title_color=FFC100&text_color=FFF"/>
 <br>
 <details align="left">
   <summary></summary> 

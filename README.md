@@ -1,5 +1,5 @@
 <div>
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src=".github/images/desktop.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400 em" src=".github/images/desktop.png">
 </div>
 <h1>
     <a href="carinetoledo.github.io/">
